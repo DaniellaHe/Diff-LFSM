@@ -1,0 +1,35 @@
+{
+  "Batch_Size": 1,
+  "EPOCHS": 100,
+  "T": 1000,
+  "attention_resolutions": "16,8",
+  "base_channels": 128,
+  "beta_schedule": "linear",
+  "channel_mults": "",
+  "channels": 1,
+  "dataset": "vertebrae",
+  "device_ids": [
+    0
+  ],
+  "draw_img": true,
+  "dropout": 0,
+  "ex_num": 1,
+  "img_size": [
+    256,
+    256
+  ],
+  "loss-type": "l2",
+  "loss_weight": "none",
+  "lr": 1e-4,
+  "mode": "eval",
+  "noise_fn": "gauss",
+  "num_head_channels": -1,
+  "num_heads": 2,
+  "random_slice": false,
+  "sample_distance": 800,
+  "save_imgs": true,
+  "save_vids": false,
+  "t_distance": 150,
+  "train_start": true,
+  "weight_decay": 0.0
+}

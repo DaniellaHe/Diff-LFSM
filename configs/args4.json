@@ -1,0 +1,11 @@
+{
+  "img_size": [
+    224,
+    224
+  ],
+  "Batch_Size": 4,
+  "EPOCHS": 100,
+  "GPU": "5",
+  "ex_num": 1,
+  "test_num": 1
+}
