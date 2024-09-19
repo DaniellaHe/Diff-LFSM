@@ -2,7 +2,7 @@
 
 ## Overview
 
-![Figure 2](figs/fig2_JBHI_workflow_page-0001.jpg)
+![Figure 2](figs/fig2_workflow_2_page-0001.jpg)
 
 ## Environment and Data Preparation
 
