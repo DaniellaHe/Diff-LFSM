@@ -10,7 +10,7 @@ To set up the environment, use the `requirements.txt` file to prepare the Conda 
 
 ```
 conda env create -f environment.yml
-conda activate diff_lfsm
+conda activate diff-lfsm
 ```
 
 As an example, to prepare the VerTumor600 dataset, convert the MRI vertebrae data from JSON to PNG format using the provided script:
